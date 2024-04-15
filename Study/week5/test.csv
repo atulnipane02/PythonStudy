@@ -1,0 +1,5 @@
+Player Name,Player Cards,Player Count,Balance,Bet Amount,Loss,Gain,BJStatus,Dealer Cards,Dealer Count
+amit,['AF', 'TS'],21,40.0,10.0,NA,30.0,['BlackJack'],['QD'],10
+sameer,['4F', 'TD', '5H'],19,60.0,10.0,NA,10.0,['Normal'],['QD', '5F', 'TH'],25
+sameer,['QF', '8F', '9F'],27,50.0,10.0,10.0,NA,['Busted'],['3H'],3
+amit,['KS', '9D'],19,65.0,15.0,15.0,NA,['Normal'],['3H', '3F', '5H', 'TF'],21

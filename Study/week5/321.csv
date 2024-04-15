@@ -1,0 +1,7 @@
+Player Name,Player Cards,Player Count,Balance,Bet Amount,Loss,Gain,BJStatus,Dealer Cards,Dealer Count
+s,['AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS'],21,40.0,5.0,NA,15.0,['BlackJack'],['AS'],11
+s,['AS', 'AS', 'AS', 'AS'],14,70.0,5.0,NA,5.0,['Normal'],['AS'],11
+a,['AS', 'AS'],12,50.0,5.0,NA,5.0,['Normal'],['AS'],11
+a,['AS'],11,55.0,5.0,NA,NA,['Normal'],['AS'],11
+s,['AS', 'AS'],12,75.0,5.0,NA,5.0,['Normal'],['AS'],11
+a,['AS', 'AS'],12,60.0,5.0,NA,5.0,['Normal'],['AS'],11
